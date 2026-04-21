@@ -1,0 +1,61 @@
+[
+  {
+    "Subject": "เคมี",
+    "Grade": "4",
+    "Volume": 1,
+    "Publisher": "อักษร",
+    "Authors": [
+      {
+        "FirstName": "พงศธร",
+        "LastName": "นันทรเนศ"
+      },
+      {
+        "FirstName": "พรพรหม",
+        "LastName": "ชัยฉัตรพรสุข"
+      },
+      {
+        "FirstName": "สุนทร",
+        "LastName": "ภูรีปรีชาเลิศ"
+      },
+      {
+        "Title": "ดร.",
+        "FirstName": "ศิริศักดิ์",
+        "LastName": "โลลุพิมาน"
+      }
+    ],
+    "Price": 94
+  },
+  {
+    "Subject": "ชีววิทยา",
+    "Grade": "4",
+    "Volume": 1,
+    "Publisher": "อักษร",
+    "Authors": [
+      {
+        "Title": "ดร.",
+        "FirstName": "ฤทธิ์",
+        "LastName": "วัฒนชัยยิ่งเจริญ"
+      }
+    ],
+    "Price": 85
+  },
+  {
+    "Subject": "ฟิสิกส์",
+    "Grade": "4",
+    "Volume": 1,
+    "Publisher": "อักษร",
+    "Authors": [
+      {
+        "Title": "ดร.",
+        "FirstName": "สุโกสินทร์",
+        "LastName": "ทองรัตนาคีรี"
+      },
+      {
+        "Title": "ดร.",
+        "FirstName": "มนต์อมร",
+        "LastName": "ปรีชารัตน์"
+      }
+    ],
+    "Price": 99
+  }
+]

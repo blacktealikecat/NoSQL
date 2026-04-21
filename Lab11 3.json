@@ -1,0 +1,83 @@
+[
+  {
+    "BillID": 1,
+    "Country": {
+      "CountryID": 1,
+      "CName": "Thailand"
+    },
+    "Year": {
+      "YearID": 2,
+      "Year": 2000
+    },
+    "CustomerID": {
+      "CustID": 1,
+      "CustName": "Sara"
+    },
+    "Amount": 1100,
+    "Items": [
+      {
+        "ItemID": 1,
+        "Product": {
+          "productID": 2,
+          "ProdName": "Pen",
+          "ProdPrice": 50
+        },
+        "ProdAmount": 2
+      },
+      {
+        "ItemID": 2,
+        "Product": {
+          "productID": 1,
+          "ProdName": "Book",
+          "ProdPrice": 100
+        },
+        "ProdAmount": 5
+      },
+      {
+        "ItemID": 3,
+        "Product": {
+          "productID": 4,
+          "ProdName": "Bag",
+          "ProdPrice": 500
+        },
+        "ProdAmount": 1
+      }
+    ]
+  },
+  {
+    "BillID": 2,
+    "Country": {
+      "CountryID": 2,
+      "CName": "Japan"
+    },
+    "Year": {
+      "YearID": 2,
+      "Year": 2000
+    },
+    "CustomerID": {
+      "CustID": 2,
+      "CustName": "Alex"
+    },
+    "Amount": 900,
+    "Items": [
+      {
+        "ItemID": 4,
+        "Product": {
+          "productID": 3,
+          "ProdName": "Shoe",
+          "ProdPrice": 200
+        },
+        "ProdAmount": 2
+      },
+      {
+        "ItemID": 5,
+        "Product": {
+          "productID": 4,
+          "ProdName": "Bag",
+          "ProdPrice": 500
+        },
+        "ProdAmount": 1
+      }
+    ]
+  }
+]
