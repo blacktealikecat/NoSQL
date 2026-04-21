@@ -1,0 +1,12 @@
+[
+  {
+    "CustID": 9,
+    "CustName": "Jane",
+    "CustAddr": "Bangkok"
+  },
+  {
+    "CustID": 22,
+    "CustName": "Adam",
+    "CustAddr": "Phuket"
+  }
+]

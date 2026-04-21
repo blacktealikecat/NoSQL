@@ -1,0 +1,26 @@
+[
+  {
+    "ProductID": "P001",
+    "ProductName": "iPhone",
+    "BrandName": "Apple",
+    "UnitPrice": 45000
+  },
+  {
+    "ProductID": "P002",
+    "ProductName": "Surface Pro",
+    "BrandName": "Microsoft",
+    "UnitPrice": 38000
+  },
+  {
+    "ProductID": "P003",
+    "ProductName": "iPad",
+    "BrandName": "Apple",
+    "UnitPrice": 22000
+  },
+  {
+    "ProductID": "P004",
+    "ProductName": "Galaxy Tab",
+    "BrandName": "Samsung",
+    "UnitPrice": 12000
+  }
+]

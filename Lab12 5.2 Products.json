@@ -1,0 +1,22 @@
+[
+  {
+    "ProductID": 3,
+    "ProductName": "Book",
+    "UnitPrice": 500
+  },
+  {
+    "ProductID": 5,
+    "ProductName": "Lamp",
+    "UnitPrice": 850
+  },
+  {
+    "ProductID": 7,
+    "ProductName": "Table",
+    "UnitPrice": 2200
+  },
+  {
+    "ProductID": 8,
+    "ProductName": "Chair",
+    "UnitPrice": 1200
+  }
+]

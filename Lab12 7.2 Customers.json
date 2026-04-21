@@ -1,0 +1,34 @@
+[
+  {
+    "CustomerID": "C40",
+    "Name": "Aye Mi",
+    "Tel": "+6693-908-5236",
+    "HouseID": 70,
+    "Road": "Rama II",
+    "City": "Bangkok"
+  },
+  {
+    "CustomerID": "C16",
+    "Name": "Takashi",
+    "Tel": "+6677-101-3758",
+    "HouseID": 482,
+    "Road": "Rama IV",
+    "City": "Bangkok"
+  },
+  {
+    "CustomerID": "C93",
+    "Name": "Somchai",
+    "Tel": "+6694-994-3456",
+    "HouseID": 567,
+    "Road": "Asia",
+    "City": "Phuket"
+  },
+  {
+    "CustomerID": "C56",
+    "Name": "Thana",
+    "Tel": "+6677-434-9761",
+    "HouseID": 12,
+    "Road": "Rama IX",
+    "City": "Bangkok"
+  }
+]

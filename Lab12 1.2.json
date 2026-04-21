@@ -1,0 +1,47 @@
+[
+  {
+    "StudentID": "C01",
+    "Students": [
+      {
+        "StudentID": "S001",
+        "StudentName": "Khim",
+        "Grade": "A"
+      },
+      {
+        "StudentID": "S002",
+        "StudentName": "Alex",
+        "Grade": "A"
+      },
+      {
+        "StudentID": "S003",
+        "StudentName": "Tommy",
+        "Grade": "B"
+      }
+    ]
+  },
+  {
+    "StudentID": "C02",
+    "Students": [
+      {
+        "StudentID": "S001",
+        "StudentName": "Khim",
+        "Grade": "B"
+      },
+      {
+        "StudentID": "S002",
+        "StudentName": "Alex",
+        "Grade": "C"
+      }
+    ]
+  },
+  {
+    "StudentID": "C04",
+    "Students": [
+      {
+        "StudentID": "S002",
+        "StudentName": "Alex",
+        "Grade": "C"
+      }
+    ]
+  }
+]

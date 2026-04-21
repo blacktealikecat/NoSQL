@@ -1,0 +1,50 @@
+[
+  {
+    "OrderID": 1006,
+    "OrderDate": "2017-10-24",
+    "CustID": 9,
+    "CustName": "Jane",
+    "CustAddr": "Bangkok",
+    "Products": [
+      {
+        "ProductID": 7,
+        "ProductName": "Table",
+        "UnitPrice": 2200,
+        "OrderedQuantity": 2
+      },
+      {
+        "ProductID": 8,
+        "ProductName": "Chair",
+        "UnitPrice": 1200,
+        "OrderedQuantity": 2
+      },
+      {
+        "ProductID": 3,
+        "ProductName": "Book",
+        "UnitPrice": 500,
+        "OrderedQuantity": 1
+      }
+    ]
+  },
+  {
+    "OrderID": 1007,
+    "OrderDate": "2019-01-15",
+    "CustID": 22,
+    "CustName": "Adam",
+    "CustAddr": "Phuket",
+    "Products": [
+      {
+        "ProductID": 5,
+        "ProductName": "Lamp",
+        "UnitPrice": 850,
+        "OrderedQuantity": 1
+      },
+      {
+        "ProductID": 3,
+        "ProductName": "Book",
+        "UnitPrice": 500,
+        "OrderedQuantity": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "InvID": "V001",
+    "InvDate": "2019-05-20",
+    "CustomerID": "C40",
+    "Items": [
+      {
+        "ProductID": "P001",
+        "Quantity": 1
+      },
+      {
+        "ProductID": "P003",
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "InvID": "V002",
+    "InvDate": "2019-11-12",
+    "CustomerID": "C16",
+    "Items": [
+      {
+        "ProductID": "P002",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "InvID": "V003",
+    "InvDate": "2017-09-09",
+    "CustomerID": "C93",
+    "Items": [
+      {
+        "ProductID": "P001",
+        "Quantity": 2
+      },
+      {
+        "ProductID": "P002",
+        "Quantity": 3
+      },
+      {
+        "ProductID": "P004",
+        "Quantity": 1
+      },
+      {
+        "ProductID": "P003",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "InvID": "V004",
+    "InvDate": "2018-08-17",
+    "CustomerID": "C56",
+    "Items": [
+      {
+        "ProductID": "P002",
+        "Quantity": 2
+      },
+      {
+        "ProductID": "P004",
+        "Quantity": 1
+      }
+    ]
+  }
+]
